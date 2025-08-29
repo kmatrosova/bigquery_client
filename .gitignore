@@ -1,0 +1,11 @@
+# Python package metadata
+*.egg-info/
+*.egg
+
+# Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS system files
+.DS_Store

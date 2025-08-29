@@ -3,7 +3,7 @@
 Example usage of the BigQuery client
 """
 
-from bigquery_client import BigQueryClient
+from bigquery_client.bigquery_client import BigQueryClient
 import os
 from dotenv import load_dotenv
 
